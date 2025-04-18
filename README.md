@@ -1,12 +1,14 @@
-👩‍💻 ¡Hola! Soy Nahla
+# 👩‍💻 ¡Hola! Soy Nahla
 
-🎓 Estudiante de programación y exploradora del código  
-🧠 Actualmente aprendiendo múltiples lenguajes para descubrir mi camino como desarrolladora  
-🧪 Me gusta experimentar, romper cosas (¡y luego arreglarlas!) y aprender haciendo
+🎓 Estudiante de programación y exploradora del código
+
+🧠 Actualmente estoy aprendiendo múltiples lenguajes para descubrir mi camino como desarrolladora.
+
+🧪 Me gusta experimentar, romper cosas (¡y luego arreglarlas!) y aprender haciendo.
 
 ---
 
-🧰 Tecnologías que estoy aprendiendo
+## 🧰 Tecnologías que estoy aprendiendo
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,23 +19,31 @@
 
 ---
 
-🚀 Mis objetivos actuales
+## 🚀 Mis objetivos actuales
 
-- Aprender los fundamentos de la programación sólida 💡  
-- Construir proyectos pequeños para practicar lo aprendido 🛠  
-- Descubrir qué tipo de desarrollo me apasiona más 💻  
+- Aprender los fundamentos de la programación sólida 💡
+- Construir proyectos pequeños para practicar lo aprendido 🛠
+- Descubrir qué tipo de desarrollo me apasiona más 💻
 - Mejorar mi lógica, depurar mejor y no rendirme 😅
 
 ---
 
-📌 Unas líneas sobre mí
+## 📌 Unas líneas sobre mí
 
-🧩 Me gusta resolver problemas, aunque a veces los cree sin querer 😅  
-📚 Soy curiosa y fan del “¿y si pruebo esto?”  
-🐞 Me llevo bien con los bugs... cuando no se esconden demasiado  
+🧩 Me gusta resolver problemas, aunque a veces los cree sin querer 😅
+
+📚 Soy curiosa, autodidacta y fan del “¿y si pruebo esto?”
+
+🐞 Me llevo bien con los bugs... cuando no se esconden demasiado
+
 🎯 Mi objetivo: convertirme en una desarrolladora que entienda, cree y colabore
 
 ---
 
-Gracias por pasarte por mi perfil 🙌  
+Gracias por pasarte por mi perfil 🙌
+
 ¡Nos vemos entre líneas de código!
+
+
+
+
