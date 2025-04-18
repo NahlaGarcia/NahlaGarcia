@@ -29,7 +29,7 @@
 📌 Unas líneas sobre mí
 
 🧩 Me gusta resolver problemas, aunque a veces los cree sin querer 😅  
-📚 Soy curiosa, autodidacta y fan del “¿y si pruebo esto?”  
+📚 Soy curiosa y fan del “¿y si pruebo esto?”  
 🐞 Me llevo bien con los bugs... cuando no se esconden demasiado  
 🎯 Mi objetivo: convertirme en una desarrolladora que entienda, cree y colabore
 
